@@ -1,0 +1,13 @@
+.env*
+
+# Logs
+logs
+*.log
+
+# Editor
+.vscode
+.vscode-test
+
+# Tmp files
+.DS_Store
+.tmp
